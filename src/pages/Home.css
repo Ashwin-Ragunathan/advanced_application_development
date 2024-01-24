@@ -1,0 +1,41 @@
+.image-container {
+    position: relative;
+  }
+  
+  .text-overlay {
+    position: absolute;
+    top: 40%;
+    left: 60%;
+    transform: translate(0%, -50%);
+    text-align: left;
+    color: #0f0000;
+    z-index: 2;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+     
+     /* font-family: 'Cedarville Cursive', cursive; */
+    font-size: x-large;
+    text-shadow: 2px 2px whitesmoke;
+  }
+  
+  .text-overlay h1 {
+    font-size: 2em;
+    /* margin-bottom: 0.5em; */
+  }
+  #booknow{
+    padding: 10px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif ;
+    font-size:medium;
+    border-radius: 1cm;
+    border: none;
+    /* box-shadow: 2px 2px bisque; */
+    margin-bottom:200px ;
+    background-color: whitesmoke;
+  }
+
+  .zoom-image{
+    width: 100vw;
+    height: 95vh;
+  }
+  .head4 button{
+    margin-bottom: 10px;
+  }
