@@ -1,0 +1,7 @@
+.main{
+    transform: translateX(50%);
+}
+
+#root1{
+    transform: translate(100%,-5%);
+}
